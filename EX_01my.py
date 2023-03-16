@@ -25,3 +25,5 @@ while True:
 # Impressão
 for funcionario in funcionarios:
     print("Funcionário: {funcionario['nome']} - Salário: R$ {funcionario['salario']:.2f}")
+
+    
